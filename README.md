@@ -39,7 +39,9 @@ Image 1:
 # 4	Installation
 # 4.1	Software Requirements for Linux Agent
 **Universal Task name:** ut-hdfs-linux
+
 **Related UAC XML Files for template and task:** Github repository
+
 **Requirements:**
 
     •	Python 3.6
